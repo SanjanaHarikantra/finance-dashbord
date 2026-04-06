@@ -1,0 +1,12 @@
+node_modules/ 
+.env 
+node_modules/ 
+finance-dashboard-frontend/node_modules/ 
+finance-dashboard-backend/node_modules/ 
+.env 
+node_modules/ 
+finance-dashboard-frontend/node_modules/ 
+finance-dashboard-backend/node_modules/ 
+.env 
+dist/ 
+build/ 
